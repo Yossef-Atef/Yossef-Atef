@@ -38,6 +38,5 @@
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+  <img style="100%" src="https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg" />
 </div>
-###
