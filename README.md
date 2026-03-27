@@ -42,4 +42,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yossef-Atef/Yossef-Atef/output/snake.svg" alt="Snake animation" />
